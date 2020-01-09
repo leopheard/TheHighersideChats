@@ -1,2 +1,5 @@
 __Version 1.0.0__
-1. Initial working version 
+1. Initial working version
+
+__Version 1.0.1__
+1. Added AJ Investigates
