@@ -23,7 +23,7 @@ msgid "Latest episodes"
 msgstr ""
 
 msgctxt "#30002"
-msgid ""
+msgid "WTHC Radio"
 msgstr ""
 
 msgctxt "#30003"
